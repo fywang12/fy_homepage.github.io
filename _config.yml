@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fuyu Wang" 
-description              : "Fuyu Wang's Homepage"
+description              : #"Fuyu Wang's Homepage"
 repository               : "fywang12/fy_homepage.github.io"
 google_scholar_stats_use_cdn : False #means use google scholar stats
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fuyu Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : #"Fuyu Wang's Homepage"
+  bio              : "PhD Student in Computer Science and Technology, Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
